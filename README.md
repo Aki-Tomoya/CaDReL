@@ -1,3 +1,3 @@
 # DRL-Net
-The official repository of DRL-Net.
-COMING SOON.
+The official repository of CaDReL.
+Code will be released after paper received.
