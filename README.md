@@ -1,5 +1,6 @@
 # CaDReL
 The official repository of CaDReL.
+![](https://github.com/Aki-Tomoya/CaDReL/blob/main/fig2.png)
 ## Environment setup
         pytorch==1.8.2+cu111
         python==3.9.16
