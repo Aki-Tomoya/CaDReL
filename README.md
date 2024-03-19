@@ -4,9 +4,9 @@ The official repository of CaDReL.
         pytorch==1.8.2+cu111
         python==3.9.16
 
-Clone the repository and create the `camel` using 
-                conda env create -n camel
-                conda activate camel
+Clone the repository and create the `camel` using:
+        conda env create -n camel
+        conda activate camel
     
 
 Then download spacy data by executing the following command:
