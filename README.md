@@ -5,12 +5,12 @@ The official repository of CaDReL.
         python==3.9.16
 
 Clone the repository and create the `camel` using 
-    conda env create -n camel
-    conda activate camel
+        conda env create -n camel
+        conda activate camel
     
 
 Then download spacy data by executing the following command:
-    python -m spacy download en
+        python -m spacy download en
 
 ## Data Preparation
 To run the code, annotations and visual features for the COCO dataset are needed. Please download the annotations file[annotations.zip](https://pan.baidu.com/s/17ik-2OZGFaQ5-AzCCWkL9w).To reproduce our result, please generate the corresponding feature files (`COCO2014_RN50x16.hdf5`)using the code in the folder.
