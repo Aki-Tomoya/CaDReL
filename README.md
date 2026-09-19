@@ -1,5 +1,5 @@
 # CaDReL
-The official repository of CaDReL for NIPS2024.
+The official repository of CaDReL for IEEE TCSVT.
 
 ## Environment setup
         pytorch==1.8.2+cu111
